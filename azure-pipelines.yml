@@ -6,7 +6,7 @@ resources:
   repositories:
   - repository: tox
     type: github
-    endpoint: github
+    endpoint: cherry
     name: tox-dev/azure-pipelines-template
     ref: refs/tags/0.2
 
